@@ -85,7 +85,7 @@
     height: 200px;
     width: 240px;
     color: #fff;
-    margin-bottom: 15%;
+    margin-bottom: 15%; 
     background-color: #000;
 }
 
@@ -342,9 +342,6 @@
 
     .card-margen{
         padding-bottom: 50px;
-    }
-    .card-sedes{
-        margin-left: 100px;
     }
 
     .imagenformu{
