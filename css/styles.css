@@ -327,8 +327,7 @@
 
     .catemovil{
         width: 370px;
-        height: 700px;
-        margin-left: 30px;   
+        height: 700px;  
    }
 
    .separador {
@@ -390,7 +389,7 @@
     .Textopie{
         margin-top: 40px;
         margin-bottom: 20px;
-        margin-left: 70px;
+        margin-left: 50px;
         color:#fff;
     }
 
