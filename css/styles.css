@@ -100,6 +100,11 @@
     margin-bottom: 20px;
 }
 
+.card-cate{
+    width: 18rem;
+    height: 30rem;
+}
+
 .card-sedes-cuerpo{
     border-color: #fff;
     border-style: solid;
