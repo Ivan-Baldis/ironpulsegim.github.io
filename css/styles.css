@@ -1,0 +1,411 @@
+
+
+*{
+   background-color: #000;
+}
+  
+.body-fondo{
+    background-color: #000;
+   
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color:#60D4EA;/* Color de texto al pasar el cursor */
+  }
+  .navbar-nav .nav-item .nav-link:active:focus {
+    color: #60D4EA; /* Color de texto cuando el enlace está activo*/
+  }
+
+.botonind{
+    margin-top: 20px;
+    justify-content: center;
+    border-color: #fff;
+    width: 300px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.botoncate{
+    margin-top: 20px;
+    margin-left: 50px;
+    justify-content: center;
+    border-color: #fff;
+    width: 50px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.boton-index{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+
+.botonsede{
+    margin-left: 65px;
+    margin-top: 1rem;
+}
+
+.card-texto{
+    margin-left: 0.25rem;
+    margin-bottom:0.5rem;
+    color:#fff;
+    text-justify: none;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.precio{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 0px;
+
+}
+
+.asociat{
+   margin-top: 40px;
+}
+
+.item-planes{
+    margin-left: 0px;
+    margin-right: 25px;
+}
+
+.card-titulo{
+    font-size: 20px;
+    align-items: center;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #fff;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.card-sedes{
+    height: 200px;
+    width: 240px;
+    color: #fff;
+    margin-bottom: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #000;
+}
+
+.botoninfo{
+    margin-top:30px;
+    margin-left: 35%;
+    justify-content: center;
+    border-color: #fff;
+    width: 100px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.card-sedes-cuerpo{
+    border-color: #fff;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.card-sedes-contenido{
+    font-size: 15px;
+    color: #fff;
+    flex-direction: row;
+    margin-bottom:0.5rem;
+    margin-left: 5px;
+}
+
+.card-margen{
+    padding-bottom: 20px;
+}
+
+.info-card-sede{
+    margin-top: 1.5rem;
+}
+
+.img-card-cate{
+    width: 304px;
+    height: 230px;
+}
+
+.flex{
+    flex-direction: column;
+    flex: auto;
+    flex-grow: 1;
+}
+
+.form-fill{
+    margin-bottom: 30px;
+}
+
+.form-fill-wide{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.form-texto{
+    color:#fff;
+}
+
+.form-texto-titulo{
+    color:#fff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.form-button{
+    margin-top:50px;
+    margin-left: 35%;
+    justify-content: center;
+    border-color: #fff;
+    width: 150px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+
+.Frase{
+    color: #60D4EA;
+    margin-top: 40px;
+    margin-bottom: 40px; 
+    margin-left: 15px; 
+}
+
+.imagenformu{
+    width: 90%;
+    height: 35%;
+    margin-left: 5%;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    margin-right: 10%;
+    justify-content: start;
+    padding-left: 20px;
+}
+
+.informacion{
+    color:#fff;
+    margin-bottom: 40px;
+    margin-left:15px;
+    margin-top:5px;
+    
+}
+
+.preguntas{
+    padding-left: 60px;
+}
+
+.footer-style{
+    border-top: 5px;
+    border-top-style: solid;
+    border-top-color: #fff;
+    margin-top: 80px;
+    border-bottom: 5px;
+    border-bottom-style:solid;
+    border-bottom-color: #fff;
+    padding-bottom: 40px;
+}
+
+.separador {
+    border-top: 1px;
+    border-top-style: solid;
+    border-top-color: #fff;
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
+
+.im-index{
+    width: 580px;
+    height: 400px;
+    padding-right: 60px;
+    padding-left: 20px;
+    
+}
+
+
+.img-card-cate{
+    height: 260px;
+}
+
+.itemp{
+    text-align: left;
+}
+
+.nav-logo{
+    width: 170px; 
+    height: 50px;
+    margin-left: 10%;
+}
+
+.svg-footer{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.svg-card{
+    height: 14px;
+    width: 14px;
+    margin-right: 5px;
+}
+
+.tarjetaprecios{
+    margin-top: 150px;
+    margin-left: 10%;
+    padding-bottom: 80px;
+}
+
+.tituloplanes{
+    margin-top: 150px;
+    margin-left: 10%;
+    padding-bottom: 80px;
+}
+
+.textprimsede{
+    margin-top: 1.5rem;
+}
+
+.formu{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.Texto{
+    color:#fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;  
+}
+
+
+.Textoprincipal{
+    color:#60D4EA;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    font-family: 'Rubik',sans-serif;
+}
+
+.Textopie{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color:#fff;
+}
+
+.linkpie{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    color:#fff;
+}
+
+@media (max-width: 767px) {
+
+    .im-index{
+        width: 500px;
+        height: 300px;
+        
+    }
+
+    .form-texto{
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+
+    .tarjetaprecios{
+        width: 10rem;
+        height: 14rem;
+        margin-top: 0px;
+        margin-bottom: 240px;
+        padding-bottom: 50px;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    .tituloplanes{
+        margin-top: 40px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+
+    .catemovil{
+        width: 370px;
+        height: 700px;
+        margin-left: 30px;   
+   }
+
+   .separador {
+    border-top: 1px;
+    border-top-style: solid;
+    border-top-color: #fff;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+    .card-margen{
+        padding-bottom: 50px;
+    }
+    .card-sedes{
+        margin-left: 100px;
+    }
+
+    .imagenformu{
+        width: 410px;
+        height: 230px;
+        margin-left: 18px;
+    }
+
+    .elementform{
+        padding-bottom: 20px;
+    }
+
+    .preguntas{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .formu{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    
+    .Textoprincipal{
+        padding-left: 30px;
+        padding-right:40px ;
+    }
+
+    .informacion{
+        padding-left: 30px;
+        padding-right:40px ;
+    }
+
+    .form-button{
+        margin-top:50px;
+        margin-left: 30%;
+        justify-content: center;
+        border-color: #fff;
+        width: 150px;
+        border-style: solid;
+        border-radius: 20px;
+    }
+
+    .Textopie{
+        margin-top: 40px;
+        margin-bottom: 20px;
+        margin-left: 70px;
+        color:#fff;
+    }
+
+    .linkpie{
+        margin-top: 20px;
+        margin-bottom: 30px;
+        margin-left: 70px;
+        color:#fff;
+    }
+
+    .svg-footer{
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+
+}
