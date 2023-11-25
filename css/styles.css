@@ -343,6 +343,10 @@
     .card-margen{
         padding-bottom: 50px;
     }
+    
+    .card-sedes{
+        margin-left:50px;
+    }
 
     .imagenformu{
         width: 410px;
