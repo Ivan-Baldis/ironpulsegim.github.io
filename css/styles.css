@@ -103,7 +103,8 @@
 .card-sedes-cuerpo{
     border-color: #fff;
     border-style: solid;
-    border-width: 4px;
+    border-radius: 5px;
+    border-width: 3px;
 }
 
 .card-sedes-contenido{
