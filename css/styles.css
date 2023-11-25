@@ -310,7 +310,7 @@
     .tarjetaprecios{
         width: 10rem;
         height: 14rem;
-        margin-top: 0px;
+        margin-top: 10px;
         margin-bottom: 240px;
         padding-bottom: 50px;
     }
@@ -322,9 +322,8 @@
     }
 
     .catemovil{
-        width: 370px;
+        width: 320px;
         height: 700px;
-        margin-left 50px;
    }
 
    .separador {
@@ -369,12 +368,12 @@
     
     .Textoprincipal{
         padding-left: 30px;
-        padding-right:40px ;
+        padding-right: 40px;
     }
 
     .informacion{
         padding-left: 30px;
-        padding-right:40px ;
+        padding-right: 40px;
     }
 
     .form-button{
@@ -388,20 +387,20 @@
     .Textopie{
         margin-top: 40px;
         margin-bottom: 20px;
-        margin-left: 5px;
+        margin-left: 60px;
         color:#fff;
     }
 
     .linkpie{
         margin-top: 20px;
         margin-bottom: 30px;
-        margin-left: 70px;
+        margin-left: 60px;
         color:#fff;
     }
 
     .svg-footer{
         margin-top: 20px;
-        margin-left: 70px;
+        margin-left: 60px;
     }
 
 }
