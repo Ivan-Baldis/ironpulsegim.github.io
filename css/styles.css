@@ -313,8 +313,6 @@
         margin-top: 0px;
         margin-bottom: 240px;
         padding-bottom: 50px;
-        margin-left: 80px;
-        margin-right: 80px;
     }
 
     .tituloplanes{
@@ -381,7 +379,6 @@
 
     .form-button{
         margin-top:30px;
-        justify-content: center;
         border-color: #fff;
         width: 150px;
         border-style: solid;
