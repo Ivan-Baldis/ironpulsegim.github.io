@@ -344,6 +344,11 @@
     .card-sedes{
         margin-left:50px;
     }
+    
+    .img-card-cate{
+    width: 320px;
+    height: 200px;
+}
 
     .imagenformu{
         width: 320px;
@@ -375,8 +380,7 @@
     }
 
     .form-button{
-        margin-top:50px;
-        margin-left: 30%;
+        margin-top:30px;
         justify-content: center;
         border-color: #fff;
         width: 150px;
@@ -387,7 +391,7 @@
     .Textopie{
         margin-top: 40px;
         margin-bottom: 20px;
-        margin-left: 50px;
+        margin-left: 5px;
         color:#fff;
     }
 
