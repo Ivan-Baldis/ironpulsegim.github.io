@@ -86,8 +86,6 @@
     width: 240px;
     color: #fff;
     margin-bottom: 15%;
-    margin-left: 5%;
-    margin-right: 5%;
     background-color: #000;
 }
 
@@ -105,7 +103,7 @@
 .card-sedes-cuerpo{
     border-color: #fff;
     border-style: solid;
-    border-width: 1px;
+    border-width: 4px;
 }
 
 .card-sedes-contenido{
